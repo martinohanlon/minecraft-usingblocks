@@ -1,4 +1,4 @@
-#Minecraft Find a Block
+#Minecraft Using Blocks
 ##Martin O'Hanlon (martin@ohanlonweb.com)
 ##http://www.stuffaboutcode.com
 
